@@ -1,0 +1,17 @@
+body
+{
+    background-image: url(test_image.jpg);
+    color: black;
+    font-weight: 500;
+    font-size: 1.05em;
+    font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, 
+        "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", 
+        "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", 
+        "FontAwesome", sans-serif;
+}
+.htmleaf-container
+{
+    margin: 0 auto;
+    text-align: center;
+    overflow: hidden;
+}
